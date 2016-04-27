@@ -72,8 +72,6 @@ class MyString():
     # Removes all occurrences of the specified character from the current string.
     def removeChar(self,c):
         string = self.str
-
-
         #strike = self.str
         #self.str = self.replace(c,'')
         #return strike
