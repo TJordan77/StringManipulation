@@ -24,7 +24,16 @@ class MyString():
 
     #Returns a string that consists of the substring between start and end indexes (both included) in the current string.
     #Index 1 corresponds to the first character in the current string.
-    def getSubstring( self,start, end):
+    def getSubstring( self, start, end):
+        self.startswith = start
+        self.endswith = end
+        character = ""
+        count = len(character)
+        count = len.s
+        for i in range(1, count):
+            while character:
+
+
 
         return 1
     #Breaks the string down, and returns it as a character string
